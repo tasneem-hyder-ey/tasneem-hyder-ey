@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tasneem-hyder-ey
+- 👋 Hi, I’m Tasneem Hyder
 - 👀 I’m interested in Data Engineering - designed, developed and delivered multiple end to end data pipelines involving different tools and technologies
 - 🌱 I’m currently learning Azure Tech Stack
 - 💞️ I’m looking to collaborate on Data Pipelines
